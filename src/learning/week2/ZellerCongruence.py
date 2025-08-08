@@ -1,8 +1,12 @@
 """
-Research Zeller's congruence, and write a program which takes as input,
+File: ZellerCongruence.py
+Author: Shiqi Su
+Date: 2025-08-08 20:32
+Description: Research Zeller's congruence, and write a program which takes as input,
 the day of the month, the month, and the year, and prints the day of the week corresponding to that date. Design a
 set of example cases to check you've implemented the logic correctly.
 """
+
 
 any_day = int(input('Enter day: '))
 any_month = int(input('Enter month: '))

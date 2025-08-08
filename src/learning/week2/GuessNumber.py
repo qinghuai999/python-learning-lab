@@ -1,5 +1,14 @@
+"""
+File: GuessNumber.py
+Author: Shiqi Su
+Date: 2025-08-08 20:33
+Description: Write a program that asks a user to guess a number between 1 and 100. The program should
+generate a random number and repeatedly ask the user to input a number until they guess
+the correct number. When they guess the correct number, the program should output
+Congratulations! and then terminate. The user may give up by entering -1 and the program
+will output the number the user was trying to guess and then terminate.
+"""
 import random
-
 print('Try to guess the number I am thinking of between 1 and 100.')
 guess_times = 0
 sys_number = 65

@@ -1,11 +1,15 @@
-
-
+"""
+File: AdditionAcademy.py
+Author: Shiqi Su
+Date: 2025-08-08 20:35
+Description: The program will generate two random 2-digit integers,
+and ask the user what the sum of the two integers is,
+and display whether or not the user is correct.
+If the user is incorrect, also display the correct answer.
+"""
 import random
 """
-Version 1: The program will generate two random 2-digit integers, 
-and ask the user what the sum of the two integers is, 
-and display whether or not the user is correct. 
-If the user is incorrect, also display the correct answer.
+Version 1: 
 """
 
 # <editor-fold desc="Version 1">
