@@ -1,0 +1,1 @@
+def get_lines(filename: str) -> dict[int, str]:def freq_count(filename: str) -> dict[str, int]:

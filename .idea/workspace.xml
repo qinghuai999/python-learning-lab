@@ -5,15 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5e8b0e-489b-47ed-a60f-1f5eca052dfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week5/FrequencyAnalysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week5/ScrabbleScoring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-learning-lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-learning-lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learning/week5/DictionaryIteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/week5/DictionaryIteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/a1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_special_commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_various_invalid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_win_by_moving.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_win_by_placement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_special_commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_various_invalid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_win_by_moving.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_win_by_placement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/a1/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/CovertLetterCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/DictionaryExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/FindAnagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/FrequencyLetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/ReverseVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/TransposeForMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/Band.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/DebuggerExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/FileDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/FileOperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/GetWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/ReadingConfigFiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week6/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week7/AddNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassPoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassRect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassUse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week7/StudentModelling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/CloseTo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritCalls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritPoly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritanceTask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/OopClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/week8/Webcrawling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,27 +82,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DictionaryIteration.executor": "Run",
-    "Python.FrequencyAnalysis.executor": "Run",
-    "Python.ScrabbleScoring.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "uq-2025-semester2",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.smartKeys",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in Class_Point.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Doctests in DebuggerExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AddNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DebuggerExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictionaryExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictionaryIteration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileDict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FrequencyAnalysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FrequencyLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetWords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GlobalVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OopClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReadingConfigFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScrabbleScoring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StudentModelling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week06.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;uq-2025-semester2&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sushiqi/PycharmProjects/python-learning-lab/src/learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learning" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,12 +140,32 @@
       <option name="presentableId" value="Default" />
       <updated>1756530626683</updated>
       <workItem from="1756530628450" duration="8657000" />
-      <workItem from="1756548457821" duration="7757000" />
+      <workItem from="1756548457821" duration="9290000" />
+      <workItem from="1756611968749" duration="26140000" />
+      <workItem from="1757575305588" duration="653000" />
+      <workItem from="1757639859203" duration="28817000" />
+      <workItem from="1757922811171" duration="12000" />
+      <workItem from="1757922834482" duration="21780000" />
+      <workItem from="1758088017103" duration="19345000" />
+      <workItem from="1758701441433" duration="11000" />
+      <workItem from="1758767137156" duration="21533000" />
+      <workItem from="1759892233911" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -111,12 +180,42 @@
           <line>30</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/learning/in_semester/ReverseVowels.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/learning/in_semester/FrequencyLetter.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/learning/week6/FileOperation.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learning_lab$DictionaryExercise.coverage" NAME="DictionaryExercise Coverage Results" MODIFIED="1756880865673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/in_semester" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$ReadingConfigFiles.coverage" NAME="ReadingConfigFiles Coverage Results" MODIFIED="1757997908690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$ReverseVowels.coverage" NAME="ReverseVowels Coverage Results" MODIFIED="1756875156344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/in_semester" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$GlobalVariable.coverage" NAME="GlobalVariable Coverage Results" MODIFIED="1756884376795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/in_semester" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$FrequencyLetter.coverage" NAME="FrequencyLetter Coverage Results" MODIFIED="1757055533013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/in_semester" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$FrequencyAnalysis.coverage" NAME="FrequencyAnalysis Coverage Results" MODIFIED="1756556456285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week5" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$DebuggerExercise.coverage" NAME="DebuggerExercise Coverage Results" MODIFIED="1757925157607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$FileOperation.coverage" NAME="FileOperation Coverage Results" MODIFIED="1757852999335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$FileDict.coverage" NAME="FileDict Coverage Results" MODIFIED="1757856553966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
     <SUITE FILE_PATH="coverage/python_learning_lab$DictionaryIteration.coverage" NAME="DictionaryIteration Coverage Results" MODIFIED="1756540676165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week5" />
-    <SUITE FILE_PATH="coverage/python_learning_lab$FrequencyAnalysis.coverage" NAME="FrequencyAnalysis Coverage Results" MODIFIED="1756555397250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week5" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$week06.coverage" NAME="week06 Coverage Results" MODIFIED="1757914828717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UQ Course/UQ Resource/7030-Python/week6" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$Doctests_in_Class_Point.coverage" NAME="Doctests in Class_Point Coverage Results" MODIFIED="1758163891324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week7" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$AddNumbers.coverage" NAME="AddNumbers Coverage Results" MODIFIED="1758094245893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week7" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$StudentModelling.coverage" NAME="StudentModelling Coverage Results" MODIFIED="1758180257507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week7" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$GetWords.coverage" NAME="GetWords Coverage Results" MODIFIED="1757911605905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
     <SUITE FILE_PATH="coverage/python_learning_lab$ScrabbleScoring.coverage" NAME="ScrabbleScoring Coverage Results" MODIFIED="1756553560139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week5" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$OopClass.coverage" NAME="OopClass Coverage Results" MODIFIED="1758774461763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week8" />
+    <SUITE FILE_PATH="coverage/python_learning_lab$Doctests_in_DebuggerExercise.coverage" NAME="Doctests in DebuggerExercise Coverage Results" MODIFIED="1757983059148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/learning/week6" />
   </component>
 </project>
