@@ -5,42 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5e8b0e-489b-47ed-a60f-1f5eca052dfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_special_commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_various_invalid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_win_by_moving.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/main_win_by_placement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_special_commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_various_invalid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_win_by_moving.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/gameplay/play_game_win_by_placement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/a1/support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/CovertLetterCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/DictionaryExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/FindAnagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/FrequencyLetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/ReverseVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/in_semester/TransposeForMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/Band.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/DebuggerExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/FileDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/FileOperation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/GetWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/ReadingConfigFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/Test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week6/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week7/AddNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassPoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassRect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week7/ClassUse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week7/StudentModelling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/CloseTo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritCalls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritPoly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/InheritanceTask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/OopClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/week8/Webcrawling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +113,7 @@
       <workItem from="1758088017103" duration="19345000" />
       <workItem from="1758701441433" duration="11000" />
       <workItem from="1758767137156" duration="21533000" />
-      <workItem from="1759892233911" duration="994000" />
+      <workItem from="1759892233911" duration="2478000" />
     </task>
     <servers />
   </component>
